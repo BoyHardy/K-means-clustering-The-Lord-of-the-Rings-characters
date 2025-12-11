@@ -2,7 +2,7 @@
 
 This starts, as all good stories do, in the pub.
 
-A fire crackled gently in the corner, the chairs were soft, the room was warm and inviting. One could confuse it for a hobbit hole - but it was, in fact, just a nice pub. 
+A fire crackled gently in the corner, the chairs were soft and comfortable, the room was warm and inviting. One could confuse it for a hobbit hole - but it was, in fact, just a nice pub. 
 
 Two beers sat on the table (next to a few empty glasses) and the air was filled with talk about _The Lord of the Rings_ movies. 
 
