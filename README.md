@@ -2,13 +2,18 @@
 
 This starts as all good stories do - in the pub.
 
-Click the link above to find out more
+A fire crackled gently in the corner, the chairs soft, the room was warm and inviting. One could confuse it for a hobbit hole but it was, in fact, just a nice pub! 2 beers sat on the table (next to a few empty glasses) and the nerdy conversation about the Lord of the Ring cinematic trilogy flowed. 
+"Will we ever get a trilogy as good again?" 
+"If you could be any character, who would you be and why?"
+"Were they a main character"
+"Yea but they're a bad guy..."
+"Yea but they're a massive part, but only the first film.."
 
+It got me wondering... let's remove the cloud of personal opinion. Can a data science project objectively group the characters in a way that makes sense and answers our question: 
+### who are the main characters in The Lord of the Rings films?
 
 
 <!-- this is a comment -->
-
-
 
 Example pic
 ![Histogram](images/histogram-example-2.png)
