@@ -19,11 +19,11 @@ It got me wondering... let's remove the cloud of personal opinion. Can a data sc
 
 <!-- this is a comment -->
 
-##Spoilers below
+## Spoilers below
 
 
 
 
 
 
-!(images/lotrplotly.png)
+(images/lotrplotly.png)
