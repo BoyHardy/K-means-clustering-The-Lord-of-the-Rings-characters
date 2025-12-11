@@ -1,4 +1,4 @@
-# The Lord of the Rings Films: Main Characters
+# The Lord of the Rings Films: Character Clustering
 
 This starts as all good stories do - in the pub.
 
